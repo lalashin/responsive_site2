@@ -4,7 +4,7 @@ body,div,ul,li,dl,dd,ol,h1,h2,h3,h4,h5,h6,input,fieldset,legend,p,select,table,t
 
 /* a 링크 초기화 */
 a {color: #222; text-decoration: none;}
-a:hover {color: #2698cb;}
+a:hover {color: #4e7701;}
 
 /* 폰트 초기화 */
 body, input, textarea, select, button, table {
